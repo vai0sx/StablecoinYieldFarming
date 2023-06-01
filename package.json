@@ -1,0 +1,14 @@
+{
+  "name": "stablecoin-yield-farming",
+  "version": "1.0.0",
+  "description": "Stable Coin Yield Farming",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "SYF"
+  ],
+  "author": "amgioss",
+  "license": "ISC"
+}
